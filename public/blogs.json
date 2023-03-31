@@ -1,0 +1,48 @@
+[
+
+  {
+    "id": "01",
+    "title": " Programming is an intriguing sector as it gives us the superpower to regulate computer programs on the go. It can be used for ships, traffic control, robotics, self-driving vehicles, smartphone applications, websites, and many other things.",
+    "thumbnail": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1206&q=80",
+    "authorImg": "https://images.unsplash.com/profile-1466569489520-0539b5b0ccba?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+    "authorName": "Ricardo P. Evans",
+    "publishedDate": "Jul 22, 2052",
+    "timeNeed": 15,
+    "tags":"#reactjs  #vs-coding"
+
+  },
+    {
+        "id": "02",
+        "title": "These bloggers have made a name for themselves in the programming world by posting important, high-quality data and tips for coders. You can learn tricks and shortcuts you would never have dreamed of doing otherwise by following programming blogs.",
+        "thumbnail": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+        "authorImg": "https://images.unsplash.com/profile-1673530457434-df041f083016image?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+        "authorName": "Henry K. Wright",
+        "publishedDate": "22 sep 2019",
+        "timeNeed": 12,
+        "tags":"#beginners js  #programming-Coding"
+
+      },
+      
+      {
+        "id": "03",
+        "title": "Better Programming is a programming-oriented blog on Medium. They publish multiple articles every day from several authors, all curated and edited to ensure excellent content.",
+        "thumbnail": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+        "authorImg": "https://images.unsplash.com/profile-1627718812915-18d601ea809fimage?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+        "authorName": "Samuel J. Lewis",
+        "publishedDate": "11, jun 2001",
+        "timeNeed": 10,
+        "tags":"#new-Programmer  #programming"
+
+      },
+      {
+        "id": "04",
+        "title": "rik Bernhardsson is an outstanding blogger and coder with a programming blog. He discusses topics concerning all coders, such as Git repository, IDEs, naming conventions, and Windows support problems.",
+        "thumbnail": "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "authorImg": "https://images.unsplash.com/profile-1567529426500-8f7a3cbff088image?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+        "authorName": "Antonio E. Easley",
+        "publishedDate": "15, aug 2016",
+        "timeNeed": 16,
+        "tags":"#javascript_Node Js  #programming_Happy"
+
+      }
+]
